@@ -1,14 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 14th, 2018 
+### Day 1: June 14th, 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started off my 100 Days of Code with TheHourofCode and received a certificate of completion.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I like the game approach to learning coding logic.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [code.org](https://code.org/learn)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: June 15th, 2018
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -27,3 +27,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
